@@ -1,0 +1,290 @@
+[
+    {
+        "username": "unknwon",
+        "name": "Joe Chen",
+        "url": "https://github.com/unknwon",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "repo": {
+            "name": "the-way-to-go_ZH_CN",
+            "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        }
+    },
+    {
+        "username": "davidfowl",
+        "name": "David Fowler",
+        "url": "https://github.com/davidfowl",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/95136",
+        "repo": {
+            "name": "TodoApi",
+            "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+            "url": "https://github.com/davidfowl/TodoApi"
+        }
+    },
+    {
+        "username": "dgtlmoon",
+        "name": "dgtlmoon",
+        "url": "https://github.com/dgtlmoon",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/275001",
+        "repo": {
+            "name": "changedetection.io",
+            "description": "changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification se…",
+            "url": "https://github.com/dgtlmoon/changedetection.io"
+        }
+    },
+    {
+        "username": "wader",
+        "name": "Mattias Wadman",
+        "url": "https://github.com/wader",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/185566",
+        "repo": {
+            "name": "fq",
+            "description": "jq for binary formats",
+            "url": "https://github.com/wader/fq"
+        }
+    },
+    {
+        "username": "fvictorio",
+        "name": "Franco Victorio",
+        "url": "https://github.com/fvictorio",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/417134",
+        "repo": {
+            "name": "evm-puzzles",
+            "description": "A collection of EVM puzzles",
+            "url": "https://github.com/fvictorio/evm-puzzles"
+        }
+    },
+    {
+        "username": "tombuildsstuff",
+        "name": "Tom Harvey",
+        "url": "https://github.com/tombuildsstuff",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/666005",
+        "repo": {
+            "name": "kermit",
+            "description": "Contains Track1 versions of the Azure/azure-sdk-for-go SDK's which aren't yet supported by hashicorp/go-azure-sdk",
+            "url": "https://github.com/tombuildsstuff/kermit"
+        }
+    },
+    {
+        "username": "MaikuB",
+        "name": "Michael Bui",
+        "url": "https://github.com/MaikuB",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/25263378",
+        "repo": {
+            "name": "flutter_local_notifications",
+            "description": "A Flutter plugin for displaying local notifications on Android, iOS, macOS and Linux",
+            "url": "https://github.com/MaikuB/flutter_local_notifications"
+        }
+    },
+    {
+        "username": "hmhealey",
+        "name": "Harrison Healey",
+        "url": "https://github.com/hmhealey",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/3277310",
+        "repo": null
+    },
+    {
+        "username": "rom1504",
+        "name": "Romain Beaumont",
+        "url": "https://github.com/rom1504",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/2346494",
+        "repo": {
+            "name": "img2dataset",
+            "description": "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.",
+            "url": "https://github.com/rom1504/img2dataset"
+        }
+    },
+    {
+        "username": "davidpdrsn",
+        "name": "David Pedersen",
+        "url": "https://github.com/davidpdrsn",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/718941",
+        "repo": {
+            "name": "axum-live-view",
+            "description": "Real-time user experiences with server-rendered HTML",
+            "url": "https://github.com/davidpdrsn/axum-live-view"
+        }
+    },
+    {
+        "username": "minimalsm",
+        "name": "Joshua",
+        "url": "https://github.com/minimalsm",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/62268199",
+        "repo": null
+    },
+    {
+        "username": "vmihailenco",
+        "name": "Vladimir Mihailenco",
+        "url": "https://github.com/vmihailenco",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/290976",
+        "repo": {
+            "name": "msgpack",
+            "description": "msgpack.org[Go] MessagePack encoding for Golang",
+            "url": "https://github.com/vmihailenco/msgpack"
+        }
+    },
+    {
+        "username": "valyala",
+        "name": "Aliaksandr Valialkin",
+        "url": "https://github.com/valyala",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/283442",
+        "repo": {
+            "name": "fasthttp",
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+            "url": "https://github.com/valyala/fasthttp"
+        }
+    },
+    {
+        "username": "purcell",
+        "name": "Steve Purcell",
+        "url": "https://github.com/purcell",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/5636",
+        "repo": {
+            "name": "emacs.d",
+            "description": "An Emacs configuration bundle with batteries included",
+            "url": "https://github.com/purcell/emacs.d"
+        }
+    },
+    {
+        "username": "casey",
+        "name": "Casey Rodarmor",
+        "url": "https://github.com/casey",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/1945",
+        "repo": {
+            "name": "just",
+            "description": "🤖 Just a command runner",
+            "url": "https://github.com/casey/just"
+        }
+    },
+    {
+        "username": "sw-yx",
+        "name": "swyx",
+        "url": "https://github.com/sw-yx",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/6764957",
+        "repo": {
+            "name": "ai-notes",
+            "description": "notes for prompt engineering",
+            "url": "https://github.com/sw-yx/ai-notes"
+        }
+    },
+    {
+        "username": "violetagg",
+        "name": "Violeta Georgieva",
+        "url": "https://github.com/violetagg",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/696661",
+        "repo": {
+            "name": "reactor-netty-workshop",
+            "description": "Reactor Netty workshop",
+            "url": "https://github.com/violetagg/reactor-netty-workshop"
+        }
+    },
+    {
+        "username": "rootzoll",
+        "name": "/rootzoll",
+        "url": "https://github.com/rootzoll",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/2472225",
+        "repo": {
+            "name": "raspiblitz",
+            "description": "Get your own Bitcoin & Lightning Node running - on a RaspberryPi with a nice LCD",
+            "url": "https://github.com/rootzoll/raspiblitz"
+        }
+    },
+    {
+        "username": "me-no-dev",
+        "name": "Me No Dev",
+        "url": "https://github.com/me-no-dev",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/12663778",
+        "repo": {
+            "name": "ESPAsyncWebServer",
+            "description": "Async Web Server for ESP8266 and ESP32",
+            "url": "https://github.com/me-no-dev/ESPAsyncWebServer"
+        }
+    },
+    {
+        "username": "a8m",
+        "name": "Ariel Mashraki",
+        "url": "https://github.com/a8m",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "repo": {
+            "name": "golang-cheat-sheet",
+            "description": "An overview of Go syntax and features.",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        }
+    },
+    {
+        "username": "sirupsen",
+        "name": "Simon Eskildsen",
+        "url": "https://github.com/sirupsen",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/97400",
+        "repo": {
+            "name": "napkin-math",
+            "description": "Techniques and numbers for estimating system's performance from first-principles",
+            "url": "https://github.com/sirupsen/napkin-math"
+        }
+    },
+    {
+        "username": "sdmg15",
+        "name": "Sonkeng Maldini",
+        "url": "https://github.com/sdmg15",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/13077039",
+        "repo": {
+            "name": "Best-websites-a-programmer-should-visit",
+            "description": "🔗 Some useful websites for programmers.",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
+        }
+    },
+    {
+        "username": "jamiebuilds",
+        "name": "Jamie Kyle",
+        "url": "https://github.com/jamiebuilds",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/952783",
+        "repo": {
+            "name": "the-super-tiny-compiler",
+            "description": "⛄ Possibly the smallest compiler ever",
+            "url": "https://github.com/jamiebuilds/the-super-tiny-compiler"
+        }
+    },
+    {
+        "username": "pedrottimark",
+        "name": "Mark Pedrotti",
+        "url": "https://github.com/pedrottimark",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/11862657",
+        "repo": null
+    },
+    {
+        "username": "charlax",
+        "name": "Charles-Axel Dein",
+        "url": "https://github.com/charlax",
+        "sponsorUrl": null,
+        "avatar": "https://avatars.githubusercontent.com/u/120501",
+        "repo": {
+            "name": "professional-programming",
+            "description": "A collection of learning resources for curious software engineers",
+            "url": "https://github.com/charlax/professional-programming"
+        }
+    }
+]

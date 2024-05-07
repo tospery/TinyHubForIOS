@@ -1,0 +1,129 @@
+{
+    "data": {
+        "viewer": {
+            "__typename": "User",
+            "id": "MDQ6VXNlcjM3MTYyODY=",
+            "login": "tospery",
+            "privateProfile": false
+        },
+        "repository": {
+            "__typename": "Repository",
+            "id": "R_kgDOIyAWBA",
+            "issueTemplates": [],
+            "issueFormLinks": [],
+            "contactLinks": [],
+            "isBlankIssuesEnabled": true,
+            "securityPolicyUrl": null,
+            "hasIssuesEnabled": false,
+            "isArchived": false,
+            "viewerHasStarred": false,
+            "stargazerCount": 256,
+            "defaultBranchRef": {
+                "__typename": "Ref",
+                "id": "REF_kwDOIyAWBK9yZWZzL2hlYWRzL21haW4",
+                "name": "main",
+                "target": {
+                    "__typename": "Commit",
+                    "id": "C_kwDOIyAWBNoAKDM3NjVmZjk0NGMwNjUwOGMzNjYwNmJkZTAwODY0NGI1MzMwODNhZWM",
+                    "history": {
+                        "__typename": "CommitHistoryConnection",
+                        "totalCount": 11
+                    },
+                    "statusCheckRollup": null
+                }
+            },
+            "forkCount": 133,
+            "isDiscussionsEnabled": false,
+            "discussionsCount": 0,
+            "homepageUrl": "",
+            "isPrivate": false,
+            "isTemplate": false,
+            "isFork": false,
+            "viewerCanAdminister": false,
+            "viewerCanPush": false,
+            "viewerHasBlockedContributors": false,
+            "hasProjectsEnabled": false,
+            "issues": {
+                "__typename": "IssueConnection",
+                "totalCount": 0
+            },
+            "projectsV2": {
+                "__typename": "ProjectV2Connection",
+                "totalCount": 0
+            },
+            "labels": {
+                "__typename": "LabelConnection",
+                "totalCount": 9
+            },
+            "licenseContents": null,
+            "licenseInfo": null,
+            "milestones": {
+                "__typename": "MilestoneConnection",
+                "totalCount": 0
+            },
+            "name": "nlw-setup-ignite",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjY5NTkwOTcy",
+                "login": "rocketseat-education",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/69590972?s=60&v=4"
+            },
+            "parent": null,
+            "pullRequests": {
+                "__typename": "PullRequestConnection",
+                "totalCount": 1
+            },
+            "refs": {
+                "__typename": "RefConnection",
+                "totalCount": 1
+            },
+            "readme": null,
+            "repositoryTopics": {
+                "__typename": "RepositoryTopicConnection",
+                "nodes": []
+            },
+            "descriptionHTML": "<div>Aplicação desenvolvida durante o NLW Setup - Ignite</div>",
+            "watchers": {
+                "__typename": "UserConnection",
+                "totalCount": 8
+            },
+            "mergeQueue": null,
+            "isViewersFavorite": false,
+            "latestRelease": null,
+            "releases": {
+                "__typename": "ReleaseConnection",
+                "totalCount": 0
+            },
+            "viewerSubscription": "UNSUBSCRIBED",
+            "viewerCanSubscribe": true,
+            "viewerSubscriptionTypes": [],
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            },
+            "topContributors": [{
+                "__typename": "User",
+                "id": "MDQ6VXNlcjE1MDM4NTUz",
+                "name": "Rennan Douglas",
+                "login": "RennanD",
+                "bioHTML": "<div>React Native Developer Instructor at Rocketseat</div>",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/15038553?s=60&u=bba88f8a6ed7709baf407a24136d95ba217eeb05&v=4",
+                "viewerIsFollowing": false,
+                "privateProfile": false,
+                "isViewer": false
+            }, {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjUwNjMzNTk5",
+                "name": "Elias Gabriel",
+                "login": "EliasGcf",
+                "bioHTML": "<div>Developer Instructor <a class=\"user-mention notranslate\" data-hovercard-type=\"organization\" data-hovercard-url=\"/orgs/Rocketseat/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/Rocketseat\">@Rocketseat</a>・JS/TS Full Stack</div>",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/50633599?s=60&v=4",
+                "viewerIsFollowing": false,
+                "privateProfile": false,
+                "isViewer": false
+            }],
+            "contributorsCount": 2
+        }
+    }
+}

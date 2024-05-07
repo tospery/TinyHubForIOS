@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Open User",
+        "url":"tinyhub://user/{username}"
+    },
+    {
+        "name":"Open Repository",
+        "url":"tinyhub://repo/{username}/{reponame}"
+    },
+    {
+        "name":"Open Search",
+        "url":"tinyhub://search?query=[word]"
+    }
+]

@@ -1,0 +1,882 @@
+[
+    {
+        "author": "google",
+        "name": "mangle",
+        "avatar": "https://github.com/google.png",
+        "description": null,
+        "url": "https://github.com/google/mangle",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 765,
+        "forks": 24,
+        "currentPeriodStars": 198,
+        "builtBy": [
+            {
+                "username": "hherman1",
+                "href": "https://github.com/hherman1",
+                "avatar": "https://avatars.githubusercontent.com/u/611822"
+            },
+            {
+                "username": "xinau",
+                "href": "https://github.com/xinau",
+                "avatar": "https://avatars.githubusercontent.com/u/30144822"
+            }
+        ]
+    },
+    {
+        "author": "google",
+        "name": "rune",
+        "avatar": "https://github.com/google.png",
+        "description": "Rune is a programming language developed to test ideas for improving security and efficiency.",
+        "url": "https://github.com/google/rune",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 1596,
+        "forks": 34,
+        "currentPeriodStars": 274,
+        "builtBy": [
+            {
+                "username": "waywardgeek",
+                "href": "https://github.com/waywardgeek",
+                "avatar": "https://avatars.githubusercontent.com/u/350306"
+            },
+            {
+                "username": "scolsen",
+                "href": "https://github.com/scolsen",
+                "avatar": "https://avatars.githubusercontent.com/u/11237600"
+            }
+        ]
+    },
+    {
+        "author": "kuchin",
+        "name": "awesome-cto",
+        "avatar": "https://github.com/kuchin.png",
+        "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+        "url": "https://github.com/kuchin/awesome-cto",
+        "language": null,
+        "languageColor": null,
+        "stars": 15000,
+        "forks": 820,
+        "currentPeriodStars": 550,
+        "builtBy": [
+            {
+                "username": "kuchin",
+                "href": "https://github.com/kuchin",
+                "avatar": "https://avatars.githubusercontent.com/u/87963"
+            },
+            {
+                "username": "darigovresearch",
+                "href": "https://github.com/darigovresearch",
+                "avatar": "https://avatars.githubusercontent.com/u/30328618"
+            },
+            {
+                "username": "maximveksler",
+                "href": "https://github.com/maximveksler",
+                "avatar": "https://avatars.githubusercontent.com/u/550550"
+            },
+            {
+                "username": "MohamedBsh",
+                "href": "https://github.com/MohamedBsh",
+                "avatar": "https://avatars.githubusercontent.com/u/40428556"
+            },
+            {
+                "username": "neiled",
+                "href": "https://github.com/neiled",
+                "avatar": "https://avatars.githubusercontent.com/u/2861"
+            }
+        ]
+    },
+    {
+        "author": "ggerganov",
+        "name": "whisper.cpp",
+        "avatar": "https://github.com/ggerganov.png",
+        "description": "Port of OpenAI's Whisper model in C/C++",
+        "url": "https://github.com/ggerganov/whisper.cpp",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 1935,
+        "forks": 146,
+        "currentPeriodStars": 181,
+        "builtBy": [
+            {
+                "username": "ggerganov",
+                "href": "https://github.com/ggerganov",
+                "avatar": "https://avatars.githubusercontent.com/u/1991296"
+            },
+            {
+                "username": "katsu560",
+                "href": "https://github.com/katsu560",
+                "avatar": "https://avatars.githubusercontent.com/u/118887472"
+            },
+            {
+                "username": "CHERTS",
+                "href": "https://github.com/CHERTS",
+                "avatar": "https://avatars.githubusercontent.com/u/885559"
+            },
+            {
+                "username": "iboB",
+                "href": "https://github.com/iboB",
+                "avatar": "https://avatars.githubusercontent.com/u/84118"
+            },
+            {
+                "username": "tamo",
+                "href": "https://github.com/tamo",
+                "avatar": "https://avatars.githubusercontent.com/u/383537"
+            }
+        ]
+    },
+    {
+        "author": "PKUFlyingPig",
+        "name": "cs-self-learning",
+        "avatar": "https://github.com/PKUFlyingPig.png",
+        "description": "计算机自学指南",
+        "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "stars": 17187,
+        "forks": 2242,
+        "currentPeriodStars": 602,
+        "builtBy": [
+            {
+                "username": "PKUFlyingPig",
+                "href": "https://github.com/PKUFlyingPig",
+                "avatar": "https://avatars.githubusercontent.com/u/60659728"
+            },
+            {
+                "username": "smxm",
+                "href": "https://github.com/smxm",
+                "avatar": "https://avatars.githubusercontent.com/u/15178800"
+            },
+            {
+                "username": "BarbarossaWang",
+                "href": "https://github.com/BarbarossaWang",
+                "avatar": "https://avatars.githubusercontent.com/u/40034814"
+            },
+            {
+                "username": "liudeyuan2021",
+                "href": "https://github.com/liudeyuan2021",
+                "avatar": "https://avatars.githubusercontent.com/u/50735120"
+            },
+            {
+                "username": "ysj1173886760",
+                "href": "https://github.com/ysj1173886760",
+                "avatar": "https://avatars.githubusercontent.com/u/42030331"
+            }
+        ]
+    },
+    {
+        "author": "VoronDesign",
+        "name": "Voron-Tap",
+        "avatar": "https://github.com/VoronDesign.png",
+        "description": null,
+        "url": "https://github.com/VoronDesign/Voron-Tap",
+        "language": null,
+        "languageColor": null,
+        "stars": 102,
+        "forks": 21,
+        "currentPeriodStars": 18,
+        "builtBy": [
+            {
+                "username": "tanaes",
+                "href": "https://github.com/tanaes",
+                "avatar": "https://avatars.githubusercontent.com/u/8292608"
+            },
+            {
+                "username": "Badnoob-327",
+                "href": "https://github.com/Badnoob-327",
+                "avatar": "https://avatars.githubusercontent.com/u/63326981"
+            },
+            {
+                "username": "raymondh2",
+                "href": "https://github.com/raymondh2",
+                "avatar": "https://avatars.githubusercontent.com/u/10180760"
+            },
+            {
+                "username": "KiloQubit",
+                "href": "https://github.com/KiloQubit",
+                "avatar": "https://avatars.githubusercontent.com/u/69389593"
+            },
+            {
+                "username": "nemgrea",
+                "href": "https://github.com/nemgrea",
+                "avatar": "https://avatars.githubusercontent.com/u/52015997"
+            }
+        ]
+    },
+    {
+        "author": "huggingface",
+        "name": "diffusion-models-class",
+        "avatar": "https://github.com/huggingface.png",
+        "description": "Materials for the Hugging Face Diffusion Models Course",
+        "url": "https://github.com/huggingface/diffusion-models-class",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "stars": 587,
+        "forks": 35,
+        "currentPeriodStars": 143,
+        "builtBy": [
+            {
+                "username": "johnowhitaker",
+                "href": "https://github.com/johnowhitaker",
+                "avatar": "https://avatars.githubusercontent.com/u/6575163"
+            },
+            {
+                "username": "lewtun",
+                "href": "https://github.com/lewtun",
+                "avatar": "https://avatars.githubusercontent.com/u/26859204"
+            },
+            {
+                "username": "angellmethod",
+                "href": "https://github.com/angellmethod",
+                "avatar": "https://avatars.githubusercontent.com/u/23619763"
+            }
+        ]
+    },
+    {
+        "author": "alan2207",
+        "name": "bulletproof-react",
+        "avatar": "https://github.com/alan2207.png",
+        "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+        "url": "https://github.com/alan2207/bulletproof-react",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 15357,
+        "forks": 1304,
+        "currentPeriodStars": 43,
+        "builtBy": [
+            {
+                "username": "alan2207",
+                "href": "https://github.com/alan2207",
+                "avatar": "https://avatars.githubusercontent.com/u/12713315"
+            },
+            {
+                "username": "ryota-murakami",
+                "href": "https://github.com/ryota-murakami",
+                "avatar": "https://avatars.githubusercontent.com/u/5501268"
+            },
+            {
+                "username": "neighborhood999",
+                "href": "https://github.com/neighborhood999",
+                "avatar": "https://avatars.githubusercontent.com/u/10325111"
+            },
+            {
+                "username": "pfcodes",
+                "href": "https://github.com/pfcodes",
+                "avatar": "https://avatars.githubusercontent.com/u/26803762"
+            },
+            {
+                "username": "fishmandev",
+                "href": "https://github.com/fishmandev",
+                "avatar": "https://avatars.githubusercontent.com/u/29619660"
+            }
+        ]
+    },
+    {
+        "author": "stashapp",
+        "name": "stash",
+        "avatar": "https://github.com/stashapp.png",
+        "description": "An organizer for your porn, written in Go",
+        "url": "https://github.com/stashapp/stash",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 5028,
+        "forks": 478,
+        "currentPeriodStars": 43,
+        "builtBy": [
+            {
+                "username": "WithoutPants",
+                "href": "https://github.com/WithoutPants",
+                "avatar": "https://avatars.githubusercontent.com/u/53250216"
+            },
+            {
+                "username": "bnkai",
+                "href": "https://github.com/bnkai",
+                "avatar": "https://avatars.githubusercontent.com/u/48220860"
+            },
+            {
+                "username": "StashAppDev",
+                "href": "https://github.com/StashAppDev",
+                "avatar": "https://avatars.githubusercontent.com/u/24867471"
+            },
+            {
+                "username": "kermieisinthehouse",
+                "href": "https://github.com/kermieisinthehouse",
+                "avatar": "https://avatars.githubusercontent.com/u/84814418"
+            },
+            {
+                "username": "gitgiggety",
+                "href": "https://github.com/gitgiggety",
+                "avatar": "https://avatars.githubusercontent.com/u/79809426"
+            }
+        ]
+    },
+    {
+        "author": "Z4nzu",
+        "name": "hackingtool",
+        "avatar": "https://github.com/Z4nzu.png",
+        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "url": "https://github.com/Z4nzu/hackingtool",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 21996,
+        "forks": 2754,
+        "currentPeriodStars": 297,
+        "builtBy": [
+            {
+                "username": "Z4nzu",
+                "href": "https://github.com/Z4nzu",
+                "avatar": "https://avatars.githubusercontent.com/u/25708027"
+            },
+            {
+                "username": "Greatest125",
+                "href": "https://github.com/Greatest125",
+                "avatar": "https://avatars.githubusercontent.com/u/66028078"
+            },
+            {
+                "username": "cclauss",
+                "href": "https://github.com/cclauss",
+                "avatar": "https://avatars.githubusercontent.com/u/3709715"
+            },
+            {
+                "username": "mokrunka",
+                "href": "https://github.com/mokrunka",
+                "avatar": "https://avatars.githubusercontent.com/u/59213927"
+            },
+            {
+                "username": "W1LDN16H7",
+                "href": "https://github.com/W1LDN16H7",
+                "avatar": "https://avatars.githubusercontent.com/u/58102926"
+            }
+        ]
+    },
+    {
+        "author": "davidfowl",
+        "name": "TodoApi",
+        "avatar": "https://github.com/davidfowl.png",
+        "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+        "url": "https://github.com/davidfowl/TodoApi",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 1079,
+        "forks": 127,
+        "currentPeriodStars": 92,
+        "builtBy": [
+            {
+                "username": "davidfowl",
+                "href": "https://github.com/davidfowl",
+                "avatar": "https://avatars.githubusercontent.com/u/95136"
+            },
+            {
+                "username": "SimonCropp",
+                "href": "https://github.com/SimonCropp",
+                "avatar": "https://avatars.githubusercontent.com/u/122666"
+            },
+            {
+                "username": "cwe1ss",
+                "href": "https://github.com/cwe1ss",
+                "avatar": "https://avatars.githubusercontent.com/u/4581460"
+            },
+            {
+                "username": "timheuer",
+                "href": "https://github.com/timheuer",
+                "avatar": "https://avatars.githubusercontent.com/u/4821"
+            },
+            {
+                "username": "SteveSandersonMS",
+                "href": "https://github.com/SteveSandersonMS",
+                "avatar": "https://avatars.githubusercontent.com/u/1101362"
+            }
+        ]
+    },
+    {
+        "author": "t3l3machus",
+        "name": "Villain",
+        "avatar": "https://github.com/t3l3machus.png",
+        "description": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
+        "url": "https://github.com/t3l3machus/Villain",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 789,
+        "forks": 153,
+        "currentPeriodStars": 80,
+        "builtBy": [
+            {
+                "username": "t3l3machus",
+                "href": "https://github.com/t3l3machus",
+                "avatar": "https://avatars.githubusercontent.com/u/75489922"
+            }
+        ]
+    },
+    {
+        "author": "TomSchimansky",
+        "name": "CustomTkinter",
+        "avatar": "https://github.com/TomSchimansky.png",
+        "description": "A modern and customizable python UI-library based on Tkinter",
+        "url": "https://github.com/TomSchimansky/CustomTkinter",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 3821,
+        "forks": 303,
+        "currentPeriodStars": 139,
+        "builtBy": [
+            {
+                "username": "TomSchimansky",
+                "href": "https://github.com/TomSchimansky",
+                "avatar": "https://avatars.githubusercontent.com/u/66446067"
+            },
+            {
+                "username": "demberto",
+                "href": "https://github.com/demberto",
+                "avatar": "https://avatars.githubusercontent.com/u/65948403"
+            },
+            {
+                "username": "felipetesc",
+                "href": "https://github.com/felipetesc",
+                "avatar": "https://avatars.githubusercontent.com/u/2336812"
+            },
+            {
+                "username": "mohsen1365ir",
+                "href": "https://github.com/mohsen1365ir",
+                "avatar": "https://avatars.githubusercontent.com/u/58194459"
+            },
+            {
+                "username": "Ripeey",
+                "href": "https://github.com/Ripeey",
+                "avatar": "https://avatars.githubusercontent.com/u/42308266"
+            }
+        ]
+    },
+    {
+        "author": "wso2",
+        "name": "reference-architecture",
+        "avatar": "https://github.com/wso2.png",
+        "description": "The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.",
+        "url": "https://github.com/wso2/reference-architecture",
+        "language": null,
+        "languageColor": null,
+        "stars": 1213,
+        "forks": 238,
+        "currentPeriodStars": 41,
+        "builtBy": [
+            {
+                "username": "asankaa",
+                "href": "https://github.com/asankaa",
+                "avatar": "https://avatars.githubusercontent.com/u/3975126"
+            },
+            {
+                "username": "lakwarus",
+                "href": "https://github.com/lakwarus",
+                "avatar": "https://avatars.githubusercontent.com/u/2654770"
+            },
+            {
+                "username": "dakshitha",
+                "href": "https://github.com/dakshitha",
+                "avatar": "https://avatars.githubusercontent.com/u/11885043"
+            },
+            {
+                "username": "dakshitharatnayake",
+                "href": "https://github.com/dakshitharatnayake",
+                "avatar": "https://avatars.githubusercontent.com/u/12840152"
+            },
+            {
+                "username": "maheshika",
+                "href": "https://github.com/maheshika",
+                "avatar": "https://avatars.githubusercontent.com/u/6869769"
+            }
+        ]
+    },
+    {
+        "author": "mtdvio",
+        "name": "every-programmer-should-know",
+        "avatar": "https://github.com/mtdvio.png",
+        "description": "A collection of (mostly) technical things every software developer should know about",
+        "url": "https://github.com/mtdvio/every-programmer-should-know",
+        "language": null,
+        "languageColor": null,
+        "stars": 64911,
+        "forks": 6169,
+        "currentPeriodStars": 309,
+        "builtBy": [
+            {
+                "username": "mr-mig",
+                "href": "https://github.com/mr-mig",
+                "avatar": "https://avatars.githubusercontent.com/u/1062491"
+            },
+            {
+                "username": "YellowFoxH4XOR",
+                "href": "https://github.com/YellowFoxH4XOR",
+                "avatar": "https://avatars.githubusercontent.com/u/24626419"
+            },
+            {
+                "username": "espozbob",
+                "href": "https://github.com/espozbob",
+                "avatar": "https://avatars.githubusercontent.com/u/2732120"
+            },
+            {
+                "username": "wa008",
+                "href": "https://github.com/wa008",
+                "avatar": "https://avatars.githubusercontent.com/u/29834520"
+            },
+            {
+                "username": "diendv96",
+                "href": "https://github.com/diendv96",
+                "avatar": "https://avatars.githubusercontent.com/u/9625273"
+            }
+        ]
+    },
+    {
+        "author": "ripienaar",
+        "name": "free-for-dev",
+        "avatar": "https://github.com/ripienaar.png",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "url": "https://github.com/ripienaar/free-for-dev",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "stars": 62900,
+        "forks": 6882,
+        "currentPeriodStars": 141,
+        "builtBy": [
+            {
+                "username": "ripienaar",
+                "href": "https://github.com/ripienaar",
+                "avatar": "https://avatars.githubusercontent.com/u/82342"
+            },
+            {
+                "username": "FatGrizzly",
+                "href": "https://github.com/FatGrizzly",
+                "avatar": "https://avatars.githubusercontent.com/u/66728880"
+            },
+            {
+                "username": "thispsj",
+                "href": "https://github.com/thispsj",
+                "avatar": "https://avatars.githubusercontent.com/u/51746608"
+            },
+            {
+                "username": "TraderStf",
+                "href": "https://github.com/TraderStf",
+                "avatar": "https://avatars.githubusercontent.com/u/5954335"
+            },
+            {
+                "username": "Reubend",
+                "href": "https://github.com/Reubend",
+                "avatar": "https://avatars.githubusercontent.com/u/13208038"
+            }
+        ]
+    },
+    {
+        "author": "codecrafters-io",
+        "name": "build-your-own-x",
+        "avatar": "https://github.com/codecrafters-io.png",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "url": "https://github.com/codecrafters-io/build-your-own-x",
+        "language": null,
+        "languageColor": null,
+        "stars": 176350,
+        "forks": 16827,
+        "currentPeriodStars": 358,
+        "builtBy": [
+            {
+                "username": "danistefanovic",
+                "href": "https://github.com/danistefanovic",
+                "avatar": "https://avatars.githubusercontent.com/u/1736595"
+            },
+            {
+                "username": "sarupbanskota",
+                "href": "https://github.com/sarupbanskota",
+                "avatar": "https://avatars.githubusercontent.com/u/3149580"
+            },
+            {
+                "username": "rohitpaulk",
+                "href": "https://github.com/rohitpaulk",
+                "avatar": "https://avatars.githubusercontent.com/u/3893573"
+            },
+            {
+                "username": "bauripalash",
+                "href": "https://github.com/bauripalash",
+                "avatar": "https://avatars.githubusercontent.com/u/16154204"
+            },
+            {
+                "username": "jserv",
+                "href": "https://github.com/jserv",
+                "avatar": "https://avatars.githubusercontent.com/u/478921"
+            }
+        ]
+    },
+    {
+        "author": "charlax",
+        "name": "professional-programming",
+        "avatar": "https://github.com/charlax.png",
+        "description": "A collection of learning resources for curious software engineers",
+        "url": "https://github.com/charlax/professional-programming",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 21868,
+        "forks": 1930,
+        "currentPeriodStars": 223,
+        "builtBy": [
+            {
+                "username": "charlax",
+                "href": "https://github.com/charlax",
+                "avatar": "https://avatars.githubusercontent.com/u/120501"
+            },
+            {
+                "username": "laithshadeed",
+                "href": "https://github.com/laithshadeed",
+                "avatar": "https://avatars.githubusercontent.com/u/508549"
+            },
+            {
+                "username": "Glyphack",
+                "href": "https://github.com/Glyphack",
+                "avatar": "https://avatars.githubusercontent.com/u/20788334"
+            },
+            {
+                "username": "guiambros",
+                "href": "https://github.com/guiambros",
+                "avatar": "https://avatars.githubusercontent.com/u/205000"
+            },
+            {
+                "username": "prasaadk",
+                "href": "https://github.com/prasaadk",
+                "avatar": "https://avatars.githubusercontent.com/u/343769"
+            }
+        ]
+    },
+    {
+        "author": "bradtraversy",
+        "name": "50projects50days",
+        "avatar": "https://github.com/bradtraversy.png",
+        "description": "50+ mini web projects using HTML, CSS & JS",
+        "url": "https://github.com/bradtraversy/50projects50days",
+        "language": "CSS",
+        "languageColor": "#563d7c",
+        "stars": 23105,
+        "forks": 6191,
+        "currentPeriodStars": 57,
+        "builtBy": [
+            {
+                "username": "bradtraversy",
+                "href": "https://github.com/bradtraversy",
+                "avatar": "https://avatars.githubusercontent.com/u/5550850"
+            },
+            {
+                "username": "florinpop17",
+                "href": "https://github.com/florinpop17",
+                "avatar": "https://avatars.githubusercontent.com/u/6692364"
+            },
+            {
+                "username": "OmarAshraf-Bombo",
+                "href": "https://github.com/OmarAshraf-Bombo",
+                "avatar": "https://avatars.githubusercontent.com/u/51724143"
+            },
+            {
+                "username": "GouthamShiv",
+                "href": "https://github.com/GouthamShiv",
+                "avatar": "https://avatars.githubusercontent.com/u/33145049"
+            },
+            {
+                "username": "KrishnaMoorthy12",
+                "href": "https://github.com/KrishnaMoorthy12",
+                "avatar": "https://avatars.githubusercontent.com/u/41967554"
+            }
+        ]
+    },
+    {
+        "author": "AUTOMATIC1111",
+        "name": "stable-diffusion-webui",
+        "avatar": "https://github.com/AUTOMATIC1111.png",
+        "description": "Stable Diffusion web UI",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 23070,
+        "forks": 4152,
+        "currentPeriodStars": 202,
+        "builtBy": [
+            {
+                "username": "AUTOMATIC1111",
+                "href": "https://github.com/AUTOMATIC1111",
+                "avatar": "https://avatars.githubusercontent.com/u/20920490"
+            },
+            {
+                "username": "dfaker",
+                "href": "https://github.com/dfaker",
+                "avatar": "https://avatars.githubusercontent.com/u/35278260"
+            },
+            {
+                "username": "C43H66N12O12S2",
+                "href": "https://github.com/C43H66N12O12S2",
+                "avatar": "https://avatars.githubusercontent.com/u/36072735"
+            },
+            {
+                "username": "yfszzx",
+                "href": "https://github.com/yfszzx",
+                "avatar": "https://avatars.githubusercontent.com/u/7899881"
+            },
+            {
+                "username": "36DB",
+                "href": "https://github.com/36DB",
+                "avatar": "https://avatars.githubusercontent.com/u/25267842"
+            }
+        ]
+    },
+    {
+        "author": "ldelossa",
+        "name": "nvim-ide",
+        "avatar": "https://github.com/ldelossa.png",
+        "description": "A full featured IDE layer for Neovim. Heavily inspired by VSCode.",
+        "url": "https://github.com/ldelossa/nvim-ide",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 385,
+        "forks": 8,
+        "currentPeriodStars": 80,
+        "builtBy": [
+            {
+                "username": "ldelossa",
+                "href": "https://github.com/ldelossa",
+                "avatar": "https://avatars.githubusercontent.com/u/5642902"
+            },
+            {
+                "username": "mrjones2014",
+                "href": "https://github.com/mrjones2014",
+                "avatar": "https://avatars.githubusercontent.com/u/8648891"
+            },
+            {
+                "username": "distek",
+                "href": "https://github.com/distek",
+                "avatar": "https://avatars.githubusercontent.com/u/49327592"
+            },
+            {
+                "username": "dundargoc",
+                "href": "https://github.com/dundargoc",
+                "avatar": "https://avatars.githubusercontent.com/u/33953936"
+            },
+            {
+                "username": "siddhantdev",
+                "href": "https://github.com/siddhantdev",
+                "avatar": "https://avatars.githubusercontent.com/u/68201519"
+            }
+        ]
+    },
+    {
+        "author": "microsoft",
+        "name": "TypeScript",
+        "avatar": "https://github.com/microsoft.png",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "url": "https://github.com/microsoft/TypeScript",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 86473,
+        "forks": 11217,
+        "currentPeriodStars": 91,
+        "builtBy": [
+            {
+                "username": "ahejlsberg",
+                "href": "https://github.com/ahejlsberg",
+                "avatar": "https://avatars.githubusercontent.com/u/4226954"
+            },
+            {
+                "username": "sheetalkamat",
+                "href": "https://github.com/sheetalkamat",
+                "avatar": "https://avatars.githubusercontent.com/u/8052792"
+            },
+            {
+                "username": "DanielRosenwasser",
+                "href": "https://github.com/DanielRosenwasser",
+                "avatar": "https://avatars.githubusercontent.com/u/972891"
+            },
+            {
+                "username": "sandersn",
+                "href": "https://github.com/sandersn",
+                "avatar": "https://avatars.githubusercontent.com/u/293473"
+            },
+            {
+                "username": "mhegazy",
+                "href": "https://github.com/mhegazy",
+                "avatar": "https://avatars.githubusercontent.com/u/8000722"
+            }
+        ]
+    },
+    {
+        "author": "Visualize-ML",
+        "name": "Book3_Elements-of-Mathematics",
+        "avatar": "https://github.com/Visualize-ML.png",
+        "description": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+        "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 985,
+        "forks": 127,
+        "currentPeriodStars": 120,
+        "builtBy": [
+            {
+                "username": "Visualize-ML",
+                "href": "https://github.com/Visualize-ML",
+                "avatar": "https://avatars.githubusercontent.com/u/105787223"
+            }
+        ]
+    },
+    {
+        "author": "mindsdb",
+        "name": "mindsdb",
+        "avatar": "https://github.com/mindsdb.png",
+        "description": "In-Database Machine Learning",
+        "url": "https://github.com/mindsdb/mindsdb",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 11849,
+        "forks": 1399,
+        "currentPeriodStars": 170,
+        "builtBy": [
+            {
+                "username": "StpMax",
+                "href": "https://github.com/StpMax",
+                "avatar": "https://avatars.githubusercontent.com/u/4068133"
+            },
+            {
+                "username": "George3d6",
+                "href": "https://github.com/George3d6",
+                "avatar": "https://avatars.githubusercontent.com/u/23587658"
+            },
+            {
+                "username": "ZoranPandovski",
+                "href": "https://github.com/ZoranPandovski",
+                "avatar": "https://avatars.githubusercontent.com/u/7192539"
+            },
+            {
+                "username": "ea-rus",
+                "href": "https://github.com/ea-rus",
+                "avatar": "https://avatars.githubusercontent.com/u/8502631"
+            },
+            {
+                "username": "torrmal",
+                "href": "https://github.com/torrmal",
+                "avatar": "https://avatars.githubusercontent.com/u/5898506"
+            }
+        ]
+    },
+    {
+        "author": "rolohaun",
+        "name": "Rook",
+        "avatar": "https://github.com/rolohaun.png",
+        "description": null,
+        "url": "https://github.com/rolohaun/Rook",
+        "language": null,
+        "languageColor": null,
+        "stars": 163,
+        "forks": 21,
+        "currentPeriodStars": 20,
+        "builtBy": [
+            {
+                "username": "rolohaun",
+                "href": "https://github.com/rolohaun",
+                "avatar": "https://avatars.githubusercontent.com/u/16283684"
+            },
+            {
+                "username": "Leviathan3DPrinting",
+                "href": "https://github.com/Leviathan3DPrinting",
+                "avatar": "https://avatars.githubusercontent.com/u/18338698"
+            }
+        ]
+    }
+]

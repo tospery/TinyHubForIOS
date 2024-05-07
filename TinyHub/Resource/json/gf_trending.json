@@ -1,0 +1,826 @@
+{
+    "data": {
+        "viewer": {
+            "__typename": "User",
+            "id": "MDQ6VXNlcjM3MTYyODY=",
+            "login": "tospery",
+            "privateProfile": false
+        },
+        "trendingRepositories": [{
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkxNTA5NTQ5OTc=",
+            "starsSince": 51,
+            "contributorsCount": 167,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxOTA=",
+                "name": "Go",
+                "color": "#00ADD8"
+            },
+            "name": "VictoriaMetrics",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjQzNzIwODAz",
+                "login": "VictoriaMetrics",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/43720803?s=144&v=4"
+            },
+            "shortDescriptionHTML": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+            "descriptionHTML": "<div>VictoriaMetrics: fast, cost-effective monitoring solution and time series database</div>",
+            "stargazerCount": 7796,
+            "parent": null,
+            "usesCustomOpenGraphImage": true,
+            "openGraphImageUrl": "https://repository-images.githubusercontent.com/150954997/b5a73280-7d50-11e9-87e3-b0ff44e0673e",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnk1NDE3MzU5Mw==",
+            "starsSince": 69,
+            "contributorsCount": 1625,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UyODc=",
+                "name": "TypeScript",
+                "color": "#3178c6"
+            },
+            "name": "storybook",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjIyNjMyMDQ2",
+                "login": "storybookjs",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/22632046?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. ",
+            "descriptionHTML": "<div>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. </div>",
+            "stargazerCount": 76150,
+            "parent": null,
+            "usesCustomOpenGraphImage": true,
+            "openGraphImageUrl": "https://repository-images.githubusercontent.com/54173593/39e57000-a3fa-11e9-83c7-953827061607",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOITROHQ",
+            "starsSince": 157,
+            "contributorsCount": 13,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python",
+                "color": "#3572A5"
+            },
+            "name": "pynecone",
+            "owner": {
+                "__typename": "Organization",
+                "id": "O_kgDOBj3Szw",
+                "login": "pynecone-io",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/104714959?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Web apps in pure Python",
+            "descriptionHTML": "<div>Web apps in pure Python</div>",
+            "stargazerCount": 2242,
+            "parent": null,
+            "usesCustomOpenGraphImage": true,
+            "openGraphImageUrl": "https://repository-images.githubusercontent.com/557075997/562346db-fd58-4802-a066-cfd83d846395",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnk5NDkxMTE0NQ==",
+            "starsSince": 90,
+            "contributorsCount": 1006,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UyODc=",
+                "name": "TypeScript",
+                "color": "#3178c6"
+            },
+            "name": "docusaurus",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjY5NjMx",
+                "login": "facebook",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/69631?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Easy to maintain open source documentation websites.",
+            "descriptionHTML": "<div>Easy to maintain open source documentation websites.</div>",
+            "stargazerCount": 41412,
+            "parent": null,
+            "usesCustomOpenGraphImage": true,
+            "openGraphImageUrl": "https://repository-images.githubusercontent.com/94911145/de889380-2905-11eb-9e9b-9332f0537e38",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkzNDQxOTA0Nzg=",
+            "starsSince": 323,
+            "contributorsCount": 18,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2U0ODk=",
+                "name": "Jupyter Notebook",
+                "color": "#DA5B0B"
+            },
+            "name": "AI-For-Beginners",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+                "login": "microsoft",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?s=144&v=4"
+            },
+            "shortDescriptionHTML": "12 Weeks, 24 Lessons, AI for All!",
+            "descriptionHTML": "<div>12 Weeks, 24 Lessons, AI for All!</div>",
+            "stargazerCount": 4348,
+            "parent": null,
+            "usesCustomOpenGraphImage": true,
+            "openGraphImageUrl": "https://repository-images.githubusercontent.com/344190478/ff93f741-7b50-4bed-af79-e66bf033e9a4",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOIyAWBA",
+            "starsSince": 89,
+            "contributorsCount": 2,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UyODc=",
+                "name": "TypeScript",
+                "color": "#3178c6"
+            },
+            "name": "nlw-setup-ignite",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjY5NTkwOTcy",
+                "login": "rocketseat-education",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/69590972?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Aplicação desenvolvida durante o NLW Setup - Ignite",
+            "descriptionHTML": "<div>Aplicação desenvolvida durante o NLW Setup - Ignite</div>",
+            "stargazerCount": 256,
+            "parent": null,
+            "usesCustomOpenGraphImage": true,
+            "openGraphImageUrl": "https://repository-images.githubusercontent.com/589305348/5b8460fa-0e92-4492-b849-2641a2079678",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": false,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkxODg3MDM5NDQ=",
+            "starsSince": 106,
+            "contributorsCount": 3,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                "name": "JavaScript",
+                "color": "#f1e05a"
+            },
+            "name": "aprendiendo-react",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjE1NjE5NTU=",
+                "login": "midudev",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/1561955?s=144&u=9ebfec769d2505d88ee746b7389353c23312bca1&v=4"
+            },
+            "shortDescriptionHTML": "Curso para aprender React desde cero",
+            "descriptionHTML": "<div>Curso para aprender React desde cero</div>",
+            "stargazerCount": 661,
+            "parent": null,
+            "usesCustomOpenGraphImage": true,
+            "openGraphImageUrl": "https://repository-images.githubusercontent.com/188703944/eb6a0dbc-54ba-4c5c-8641-252ca66dc4bc",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnk0NTI0MTgx",
+            "starsSince": 23,
+            "contributorsCount": 698,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDI=",
+                "name": "C++",
+                "color": "#f34b7d"
+            },
+            "name": "folly",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjY5NjMx",
+                "login": "facebook",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/69631?s=144&v=4"
+            },
+            "shortDescriptionHTML": "An open-source C++ library developed and used at Facebook.",
+            "descriptionHTML": "<div>An open-source C++ library developed and used at Facebook.</div>",
+            "stargazerCount": 24107,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/5fe70c6db0d3f390d2a4ed393a6fa1f023e07ccd16dad79d0f723a0e4ccc2fd6/facebook/folly",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkxMDk4NzI2MjA=",
+            "starsSince": 14,
+            "contributorsCount": 395,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UyNDk=",
+                "name": "Rust",
+                "color": "#dea584"
+            },
+            "name": "substrate",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjE0MTc2OTA2",
+                "login": "paritytech",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/14176906?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Substrate: The platform for blockchain innovators",
+            "descriptionHTML": "<div>Substrate: The platform for blockchain innovators</div>",
+            "stargazerCount": 7797,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/aa75cb5aa0e6fd5a9eb5dd6101ad3791e5214bc85eaa66795859e89b4218e496/paritytech/substrate",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnk3MDUzNjM3",
+            "starsSince": 43,
+            "contributorsCount": 594,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python",
+                "color": "#3572A5"
+            },
+            "name": "mypy",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjE1MjU5ODE=",
+                "login": "python",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/1525981?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Optional static typing for Python",
+            "descriptionHTML": "<div>Optional static typing for Python</div>",
+            "stargazerCount": 14581,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/f3c7e1d611d2cb01faff74cec81a37421851b1f4a2edb368662b4437cda82934/python/mypy",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkyMjQ1ODI1OQ==",
+            "starsSince": 18,
+            "contributorsCount": 244,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UzNzE=",
+                "name": "Swift",
+                "color": "#F05138"
+            },
+            "name": "Alamofire",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjc3NzQxODE=",
+                "login": "Alamofire",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/7774181?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Elegant HTTP Networking in Swift",
+            "descriptionHTML": "<div>Elegant HTTP Networking in Swift</div>",
+            "stargazerCount": 38828,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/ede85c611172dc832e8cb9e0b21839a157eefff39c7670f45d316c85c02ed581/Alamofire/Alamofire",
+            "viewerHasStarred": true,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkzMjY4MjYwMjM=",
+            "starsSince": 414,
+            "contributorsCount": 19,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                "name": "C#",
+                "color": "#178600"
+            },
+            "name": "QuestPDF",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjczNzYzNDY5",
+                "login": "QuestPDF",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/73763469?s=144&v=4"
+            },
+            "shortDescriptionHTML": "QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoi…",
+            "descriptionHTML": "<div>QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.</div>",
+            "stargazerCount": 5265,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/7ce0e983e2ef0d410966909fb1160009a2d18f5be1b9b0e1268fc5c0145bb023/QuestPDF/QuestPDF",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOIAstBQ",
+            "starsSince": 114,
+            "contributorsCount": 36,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2U0ODk=",
+                "name": "Jupyter Notebook",
+                "color": "#DA5B0B"
+            },
+            "name": "whisper",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
+                "login": "openai",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "descriptionHTML": "<div>Robust Speech Recognition via Large-Scale Weak Supervision</div>",
+            "stargazerCount": 21462,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/13f9d74d9ff0be25d4fb364dc533fb908f628848f528d131950aa250edcfe2b5/openai/whisper",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": false,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkxODA2ODc2MjQ=",
+            "starsSince": 40,
+            "contributorsCount": 275,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxOTA=",
+                "name": "Go",
+                "color": "#00ADD8"
+            },
+            "name": "trivy",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjEyNzgzODMy",
+                "login": "aquasecurity",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/12783832?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+            "descriptionHTML": "<div>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</div>",
+            "stargazerCount": 15803,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/2fe5c65bb83684b2cd341d0d0b8656a394581b515708554aa79269edb0fec31d/aquasecurity/trivy",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOHi_M8g",
+            "starsSince": 114,
+            "contributorsCount": 11,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                "name": "Java",
+                "color": "#b07219"
+            },
+            "name": "TVBoxOSC",
+            "owner": {
+                "__typename": "Organization",
+                "id": "O_kgDOBm_n1A",
+                "login": "CatVodTVOfficial",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/107997140?s=144&v=4"
+            },
+            "shortDescriptionHTML": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+            "descriptionHTML": "<div>真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。</div>",
+            "stargazerCount": 2808,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/37bd9a1f1dbae366c91226c305e3b38dc4e7d71339bff6f2eeee8b6aec872477/CatVodTVOfficial/TVBoxOSC",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": false,
+            "isDiscussionsEnabled": false,
+            "isArchived": true,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkxMzI3NTA3MjQ=",
+            "starsSince": 287,
+            "contributorsCount": 89,
+            "primaryLanguage": null,
+            "name": "build-your-own-x",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjU4OTA0MjM1",
+                "login": "codecrafters-io",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/58904235?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Master programming by recreating your favorite technologies from scratch.",
+            "descriptionHTML": "<div>Master programming by recreating your favorite technologies from scratch.</div>",
+            "stargazerCount": 184509,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/aff340e06d17d85fde417341420ba121dfafa6b4a7d97e3d1fac32ef025925e3/codecrafters-io/build-your-own-x",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOGQOHdA",
+            "starsSince": 608,
+            "contributorsCount": 50,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2U0ODk=",
+                "name": "Jupyter Notebook",
+                "color": "#DA5B0B"
+            },
+            "name": "data-engineering-zoomcamp",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjcyNjk5Mjky",
+                "login": "DataTalksClub",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/72699292?s=144&v=4"
+            },
+            "shortDescriptionHTML": "Free Data Engineering course! ",
+            "descriptionHTML": "<div>Free Data Engineering course! </div>",
+            "stargazerCount": 10686,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/19323ff075d0458c30f213c1651b145388914f9ada732f779047b38a1c2f362b/DataTalksClub/data-engineering-zoomcamp",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOIwawuA",
+            "starsSince": 194,
+            "contributorsCount": 1,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UyMzI=",
+                "name": "C#",
+                "color": "#178600"
+            },
+            "name": "woo-besluit-broncode-digid-app",
+            "owner": {
+                "__typename": "Organization",
+                "id": "MDEyOk9yZ2FuaXphdGlvbjMzODQzNTg4",
+                "login": "MinBZK",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/33843588?s=144&v=4"
+            },
+            "shortDescriptionHTML": "",
+            "descriptionHTML": "<div></div>",
+            "stargazerCount": 559,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/2f92a63e35287876a7b7bccae9e0d0a910616cec74370d1e45948185fa6de67e/MinBZK/woo-besluit-broncode-digid-app",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": false,
+            "isDiscussionsEnabled": false,
+            "isArchived": true,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkyMjI3NTExMzE=",
+            "starsSince": 53,
+            "contributorsCount": 10,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python",
+                "color": "#3572A5"
+            },
+            "name": "30-Days-Of-Python",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjkwMDgwNjM=",
+                "login": "Asabeneh",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/9008063?s=144&u=ec6ff77196b998a4e6b6e3ca1429c524c169c189&v=4"
+            },
+            "shortDescriptionHTML": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. ",
+            "descriptionHTML": "<div>30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. </div>",
+            "stargazerCount": 18111,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/07648a798fbb33af3336d8c08a5d544ba7ab00907c90f88a3adbe7bfed957834/Asabeneh/30-Days-Of-Python",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOIj0Vcg",
+            "starsSince": 39,
+            "contributorsCount": 10,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python",
+                "color": "#3572A5"
+            },
+            "name": "PyChatGPT",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjE5NDA2Njgz",
+                "login": "rawandahmad698",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/19406683?s=144&u=ac0829b68dfd4756eeb3ed68310662c8255818f0&v=4"
+            },
+            "shortDescriptionHTML": "<g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡️</g-emoji> Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+            "descriptionHTML": "<div><g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡️</g-emoji> Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.</div>",
+            "stargazerCount": 2770,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/a2964ad8bd7164773899de99edb7acb85d9137d04900832f3c6e5d5546eb884c/rawandahmad698/PyChatGPT",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "MDEwOlJlcG9zaXRvcnkyNzgzMzUyNzM=",
+            "starsSince": 112,
+            "contributorsCount": 242,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                "name": "JavaScript",
+                "color": "#f1e05a"
+            },
+            "name": "github-readme-stats",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjM1Mzc0NjQ5",
+                "login": "anuraghazra",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/35374649?s=144&u=3125539259bebd2d8af05462a37f22a4fba763e4&v=4"
+            },
+            "shortDescriptionHTML": "<g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> Dynamically generated stats for your github readmes",
+            "descriptionHTML": "<div><g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> Dynamically generated stats for your github readmes</div>",
+            "stargazerCount": 50796,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/f8e98824724149fb0ff812b7b92a587bcb66c9b5fbfd29383075ce6a62aeb5d2/anuraghazra/github-readme-stats",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOHiPftw",
+            "starsSince": 139,
+            "contributorsCount": 3,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python",
+                "color": "#3572A5"
+            },
+            "name": "CodeFormer",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjE0MzM0NTA5",
+                "login": "sczhou",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/14334509?s=144&u=88fa39271f4adfbdae7ff8ad26d8e45ba83d68dc&v=4"
+            },
+            "shortDescriptionHTML": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "descriptionHTML": "<div>[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer</div>",
+            "stargazerCount": 3640,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/c12da5581a7411d781b960523c05a904a55659e964c60188b1e243565b7cc2e6/sczhou/CodeFormer",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOIweb8g",
+            "starsSince": 102,
+            "contributorsCount": 1,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python",
+                "color": "#3572A5"
+            },
+            "name": "vall-e",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjEyOTc3MzY2",
+                "login": "enhuiz",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/12977366?s=144&u=227b126ef3f432923a7e67db1676105ea3bc6ef9&v=4"
+            },
+            "shortDescriptionHTML": "An unofficial PyTorch implementation of the audio LM VALL-E, WIP",
+            "descriptionHTML": "<div>An unofficial PyTorch implementation of the audio LM VALL-E, WIP</div>",
+            "stargazerCount": 668,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/eebfff261fbd386a2bc4376a0e8daa108d9455bdb2749f588ecedf7c0006daa1/enhuiz/vall-e",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOHszC9Q",
+            "starsSince": 153,
+            "contributorsCount": 1,
+            "primaryLanguage": null,
+            "name": "DEVOPS-WORLD",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjg1MjcwMzYx",
+                "login": "annfelix",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/85270361?s=144&u=945b2b58c24cda42a7e1f4f527964c71df256fbf&v=4"
+            },
+            "shortDescriptionHTML": "",
+            "descriptionHTML": "<div></div>",
+            "stargazerCount": 637,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/22cb9a22b703dc98618fe2e4d3efecf02845a27ed19a9a154a4b7c70c0390193/annfelix/DEVOPS-WORLD",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": false,
+            "isArchived": true,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }, {
+            "__typename": "Repository",
+            "id": "R_kgDOIPDwlg",
+            "starsSince": 408,
+            "contributorsCount": 75,
+            "primaryLanguage": {
+                "__typename": "Language",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python",
+                "color": "#3572A5"
+            },
+            "name": "langchain",
+            "owner": {
+                "__typename": "User",
+                "id": "MDQ6VXNlcjExOTg2ODM2",
+                "login": "hwchase17",
+                "avatarUrl": "https://avatars.githubusercontent.com/u/11986836?s=144&v=4"
+            },
+            "shortDescriptionHTML": "<g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> Building applications with LLMs through composability <g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji>",
+            "descriptionHTML": "<div><g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji> Building applications with LLMs through composability <g-emoji class=\"g-emoji\" alias=\"zap\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/26a1.png\">⚡</g-emoji></div>",
+            "stargazerCount": 3609,
+            "parent": null,
+            "usesCustomOpenGraphImage": false,
+            "openGraphImageUrl": "https://opengraph.githubassets.com/69dd33e6b2b8dcb0d4ac3666373db5887070def74b14bcc9b0fa165302851762/hwchase17/langchain",
+            "viewerHasStarred": false,
+            "hasIssuesEnabled": true,
+            "isDiscussionsEnabled": true,
+            "isArchived": false,
+            "lists": {
+                "__typename": "UserListConnection",
+                "totalCount": 0,
+                "nodes": []
+            }
+        }]
+    }
+}
